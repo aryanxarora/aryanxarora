@@ -2,7 +2,7 @@
 
 # I'm Aryan Arora
 
-🎓 De La Salle University Computer Science '22
+🎓 DLSU Computer Science '22
 
 👨‍💻 Tech Enthusiast
 
